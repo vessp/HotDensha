@@ -1,5 +1,11 @@
 HotDensha
 -----------------
-A simple app which tracks your location and quickly shows you if you should be walking or running to your train.  
+A simple React-Native app which tracks your location and quickly shows you if you should be walking or running to your train.  
 
 Add train schedule data into ./app/train-data.json
+
+Run
+-----------------
+npm install
+react-native run-ios
+react-native run-android
